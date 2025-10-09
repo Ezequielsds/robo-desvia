@@ -21,9 +21,6 @@ Desvia automaticamente para evitar colisões.
 
 Possível expansão futura com mais sensores ou funcionalidades.
 
-autores
-Eduardo mantovani victor gabriel enzo becker ezequiel soares daniele lima
-
 foto do projeto Robô desvia obstáculos
 
 [foto do projeto"(https://www.tinkercad.com/things/0yEKKpytt5k-robo-20)"]
