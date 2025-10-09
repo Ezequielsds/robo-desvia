@@ -23,4 +23,6 @@ Possível expansão futura com mais sensores ou funcionalidades.
 
 foto do projeto Robô desvia obstáculos
 
+<img width="965" height="548" alt="Captura de tela 2025-10-09 150140" src="https://github.com/user-attachments/assets/57417721-8bff-4259-b914-51e54d5ae79a" />
+
 [foto do projeto"(https://www.tinkercad.com/things/0yEKKpytt5k-robo-20)"]
