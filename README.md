@@ -3,4 +3,8 @@
 # Robô desvia obstáculos 
 Projeto de robô que consegue desviar de obstáculos usando sensores de chaves fim de curso.
 ## Autor
-Ezequiel Soares 
+Ezequiel Soares, 
+Enzo Mesquita Becker, 
+Danielle Lima Silva,
+Eduardo Mantovani,
+Victor Gabriel Cesare.
